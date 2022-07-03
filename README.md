@@ -1,0 +1,1 @@
+docker build -t registry.cn-shenzhen.aliyuncs.com/difttt/slack-notify:latest --platform=linux/arm64/v8 .  
